@@ -13,3 +13,5 @@
   
 ---
 [영남이공대](https://www.ync.ac.kr)
+
+![프로필 이미지](./efrge3drgegrgegeg.jpg)
